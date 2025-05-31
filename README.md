@@ -96,5 +96,4 @@ Export flashcards as Anki decks
 🙌 Contributing
 We welcome contributions! Please open an issue or a pull request for suggestions or enhancements.
 
-📝 License
-MIT License
+
