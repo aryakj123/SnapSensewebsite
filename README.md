@@ -95,4 +95,11 @@ Export flashcards as Anki decks
 🙌 Contributing
 We welcome contributions! Please open an issue or a pull request for suggestions or enhancements.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/34ad247a-3f3a-42ab-8e27-62914ebcc0a8)
+
+![Image](https://github.com/user-attachments/assets/60d25d4f-d7cd-4124-a9d0-57d45c9c8835)
+
+![Image](https://github.com/user-attachments/assets/aff59aa7-9ad5-4a3b-b264-0169a71c482d)
+
 
