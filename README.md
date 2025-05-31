@@ -36,7 +36,7 @@ Image Analysis: AI-powered visual reasoning and emotion inference
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/snapsense.git
+git clone https://github.com/aryakj123/snapsense.git
 cd snapsense
 2. Install Dependencies
 bash
@@ -55,7 +55,6 @@ bash
 Copy
 Edit
 npm run dev
-Visit http://localhost:3000 in your browser to use Snap Sense.
 
 📂 Project Structure
 css
